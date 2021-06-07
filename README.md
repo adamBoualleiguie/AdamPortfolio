@@ -1,2 +1,0 @@
-# AdamPortfolio
-My portfolio
